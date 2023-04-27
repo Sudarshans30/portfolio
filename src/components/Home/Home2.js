@@ -31,12 +31,12 @@ function Home2() {
               </i>
               <br />
               <br />
-              In addition, i have a keen interest in exploring the fields of &nbsp;
+              In addition, I have a keen interest in exploring the fields of &nbsp;
               <i>
                 <b className="purple">Machine learning</b> and
                 {" "}
                 <b className="purple">
-                 Cloud computing
+                 Cloud computing.
                 </b>
               </i>
               <br />
