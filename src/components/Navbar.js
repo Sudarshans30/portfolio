@@ -12,6 +12,9 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
+// import {
+//   MdConnectWithoutContact
+// } from "react-icons/md"
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -90,6 +93,18 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
+
+
+            {/* <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/contact.jsx"
+                onClick={() => updateExpanded(false)}
+              >
+                < MdConnectWithoutContact style={{ marginBottom: "2px" }} /> contact me
+              </Nav.Link>
+            </Nav.Item> */}
+
 
             
 
